@@ -12,7 +12,7 @@ Install the Angular CLI globally with command npm install -g @angular/cli
 
 ## Download
 
-Clone or download hospital repository, run npm install for download dependencies
+Clone or download hospital repository, run npm install into application root folder for download dependencies
 
 ## Development server
 
